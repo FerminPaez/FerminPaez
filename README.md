@@ -15,7 +15,7 @@ Perfil técnico enfocado en la arquitectura de datos, optimización de recursos 
   - **Procesamiento Distribuido:** Diseño de pipelines analíticos utilizando **Apache Kafka** para la ingesta de eventos, **Apache Flink** para transformaciones *stateful* de baja latencia y **Apache Spark** para procesamiento *batch* e históricos.
   - **Modelado y Orquestación:** Desarrollo de flujos con **Apache Airflow** y **dbt**, implementando arquitectura Medallion y modelado dimensional (esquema en estrella de Kimball).
   - **FinOps & Cloud:** Optimización de costos de almacenamiento mediante la migración estratégica de datasets masivos desde BigQuery hacia Google Cloud Storage.
-- **Entorno:** Administración de entornos aislados (macOS como estación principal y entornos Windows dedicados para cargas específicas).
+
 
 ## Stack Tecnológico
 
